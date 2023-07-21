@@ -17,4 +17,4 @@ repo sync
 
 Buildbot
 ------------------
-Buildbot see here [ify] (https://github.com/ArbitrarilyTong-Devices/device_xiaomi_thyme/commit/42fc3342b9d9ca565affd2267ae5c48b40aac974).
+Buildbot see here [ify](https://github.com/ArbitrarilyTong-Devices/device_xiaomi_thyme/commit/42fc3342b9d9ca565affd2267ae5c48b40aac974).
